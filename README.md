@@ -5,4 +5,4 @@
 **Input:**<br>
 
 **Output:**<br>
-   **simple interest** = p*t*r
+-**simple interest** = p*t*r
